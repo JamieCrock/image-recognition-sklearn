@@ -2,7 +2,6 @@
 
 [![CI](https://github.com/JamieCrock/image-recognition-sklearn/actions/workflows/ci.yml/badge.svg)](https://github.com/JamieCrock/image-recognition-sklearn/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 This project builds a reproducible pipeline for **tuning, comparing and stress-testing classical image classifiers**. It takes the topic of my scikit-learn image-recognition coursework (*Big Data and Machine Learning*, Swansea University) and turns it into a standalone project.
 
@@ -98,7 +97,3 @@ make lint   # ruff
 ```
 
 CI runs the linter, the tests and a quick end-to-end experiment on Python 3.11–3.13.
-
-## Licence
-
-MIT © 2026 Jamie Crockett

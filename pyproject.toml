@@ -8,7 +8,6 @@ version = "1.0.0"
 description = "Tuning, comparing and stress-testing classical image classifiers with scikit-learn."
 readme = "README.md"
 requires-python = ">=3.11"
-license = { text = "MIT" }
 authors = [{ name = "Jamie Crockett" }]
 dependencies = [
     "numpy>=1.24",
